@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://m2gestions.github.io/sitemap.xml
