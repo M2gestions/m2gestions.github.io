@@ -28,4 +28,4 @@ Le formulaire prépare un e-mail vers `m2.gestions@gmail.com`. Il ne stocke pas 
 - `mentions-legales.html`
 - `confidentialite.html`
 - `logo.png`
-- `mélanie.png`
+- `melanie.png`
